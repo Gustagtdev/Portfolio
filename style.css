@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  color: #f5f5f5;
+  background-color: rgb(37, 33, 33);
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+  padding: 16px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.powerup:hover{
+  color: mediumaquamarine;
+}
+
+.python:hover{
+  color: mediumaquamarine;
+}
+.cv:hover{
+  color: mediumaquamarine;
+}
+
+header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid #008B8B;
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  color: mintcream;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+  color: rgb(27, 185, 185);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+  color: mintcream;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p1 {
+  color: aquamarine;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p2 {
+  color: mintcream;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p3 {
+  color: mintcream;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p4 {
+  color: mintcream;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p5 {
+  color: mintcream;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p6{
+  color: mintcream;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer img {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: 3px solid powderblue;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+footer a {
+  margin: 20px;
+  text-align: center;
+}
+
+footer p {
+  margin-top: 2px;
+}
+
+.container {
+  padding: 0px 50px;
+}
+
+
+nav ul {
+  display: flex;
+ justify-content: space-between;
+ padding: 10px;
+}
+
+nav ul li {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+nav a:hover {
+  color: mediumaquamarine;
+
+}
+
+.buttom-as-link {
+  padding: 5px 10px;
+  text-decoration: none;
+  border: none;
+}
