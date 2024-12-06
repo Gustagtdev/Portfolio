@@ -30,7 +30,9 @@ a {
 .cv:hover{
   color: mediumaquamarine;
 }
-
+.jogo:hover{
+  color: mediumaquamarine;
+}
 header img {
   width: 150px;
   height: 150px;
