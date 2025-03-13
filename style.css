@@ -16,6 +16,7 @@ ul {
 a {
   color: white;
   text-decoration: none;
+  font-family: "Inter", sans-serif;
 }
 
 .powerup:hover{
